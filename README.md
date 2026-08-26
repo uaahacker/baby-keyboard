@@ -390,6 +390,6 @@ Possible future additions include:
 
 ## License
 
-No license has been specified yet.
+This project is licensed under the MIT License.
 
-If you intend to make the project open source, add a `LICENSE` file and update this section with the license you choose.
+See the [LICENSE](LICENSE) file for details.
